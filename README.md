@@ -11,7 +11,7 @@
 ```
 
 > **Portfolio personnel ultra-technique** de Mouhamed Abdallah Dia —  
-> Full-Stack Developer · AI Engineer · Agentic AI · Cybersecurity Specialist  
+> Full-Stack Developer · AI Engineer · Agentic AI · Cybersecurity  
 > Université Alioune Diop · 19 Certifications internationales
 
 🔗 **Live :** [saotof-prog.github.io/portfolio](https://saotof-prog.github.io/portfolio/)
@@ -102,7 +102,7 @@ git push origin main
 ## 🧑‍💻 Auteur
 
 **Mouhamed Abdallah Dia**
-Full-Stack Developer · AI Engineer · Cybersecurity Specialist
+Full-Stack Developer · AI Engineer · Cybersecurity
 
 - 🎓 Licence — Développement, Administration & Applications · UAD, Bambey
 - 🏆 19 Certifications internationales (Harvard, Vanderbilt, Stanford, Microsoft, IBM, Google...)
