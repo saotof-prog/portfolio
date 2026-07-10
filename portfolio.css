@@ -413,6 +413,11 @@ section{
   padding-left:1rem;position:relative;
 }
 .tl-ul li::before{content:'›';position:absolute;left:0;color:var(--crt);}
+.tl-links{display:flex;gap:.75rem;flex-wrap:wrap;margin-top:.6rem;}
+.tl-link{font-family:var(--mono);font-size:.6rem;letter-spacing:.08em;color:rgba(0,255,159,.35);text-decoration:none;padding:.2rem .6rem;border:1px solid rgba(0,255,159,.12);transition:all .25s;display:inline-flex;align-items:center;gap:.35rem;}
+.tl-link:hover{border-color:var(--crt);color:var(--crt);background:rgba(0,255,159,.04);}
+.tl-link .arr{color:var(--crt3);transition:transform .2s;}
+.tl-link:hover .arr{transform:translateX(3px);}
 
 /* ═══════════════════════════════
    MANIFESTO SECTION
